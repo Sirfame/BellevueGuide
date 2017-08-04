@@ -1,0 +1,22 @@
+{
+  "name": "skill-sample-nodejs-city-guide",
+  "version": "1.0.0",
+  "description": "We all have our favorite places.  It may be your childhood hometown, an exotic place you've visited, or even your college town.  Regardless of why a city is your favorite, we all have our favorite sports to visit and want to tell others about, and that's exactly what this new skill template helps you do.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexa/skill-sample-nodejs-city-guide.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexa/skill-sample-nodejs-city-guide/issues"
+  },
+  "homepage": "https://github.com/alexa/skill-sample-nodejs-city-guide#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
